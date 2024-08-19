@@ -210,7 +210,7 @@ header {
   margin-bottom: 20px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 768px) {
   .nav-links {
     display: none;
     flex-direction: column;
